@@ -8,8 +8,8 @@ module load blast/2.5.0-gcc-4.8.5
 module load diamond/0.9.17
 module load bedtools2/2.26.0-gcc-4.8.5
 module load samtools/1.11-gcc-4.8.5
-Exonerate=/BIGDATA2/zju_pjzhao_1/01-Ruminant-TE/02-KZFP/00-Script/03-Exonerate.pl
-Filter=/BIGDATA2/zju_pjzhao_1/01-Ruminant-TE/02-KZFP/00-Script/01-Filter.sh
+Exonerate=Exonerate.pl
+Filter=Filter.sh
 ##############################################
 Genome=/BIGDATA2/zju_pjzhao_1/01-Ruminant-TE/00-Ruminant
 OUT=/BIGDATA2/zju_pjzhao_1/01-Ruminant-TE/02-KZFP/01-ORF
