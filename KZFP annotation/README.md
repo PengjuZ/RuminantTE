@@ -1,1 +1,1 @@
-KZFP family annotation
+Annotation of KZFP in ruminant genomes
